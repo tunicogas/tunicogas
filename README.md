@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Antonio Teodoro!
 
-<!--
-**tunicogas/tunicogas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Estudante de Análise e Desenvolvimento de Software** (2º semestre)  
+🐍 Apaixonado por **Python** e desenvolvimento de soluções práticas  
+🚀 Buscando minha **primeira oportunidade** como programador
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias e Ferramentas
+- Python  
+- Git & GitHub  
+- VS Code  
+- Boas práticas de código e arquitetura simples
+
+---
+
+## 📂 Projetos em Destaque
+
+### [Extrator de Preços](https://github.com/tunicogas/extrator-precos)
+Script que coleta preços de produtos de um site e exporta para **Excel** e **banco de dados SQL**.
+
+### [Organizador de Arquivos](https://github.com/tunicogas/organizador-arquivos)
+Ferramenta que classifica e organiza arquivos automaticamente por tipo/extensão.
+
+### [Jankenpon (Pedra, Papel e Tesoura)](https://github.com/tunicogas/jankenpon)
+Jogo interativo no terminal utilizando lógica condicional e aleatoriedade.
+
+---
+
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/antonio-carlos-ramos-teodoro-4ba420235/)  
+- **E-mail:** antonio151200@gmail.com
+
+---
+⭐ *Sempre aberto a aprender, colaborar e contribuir com projetos!*
