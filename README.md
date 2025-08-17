@@ -2,7 +2,6 @@
 
 💻 **Estudante de Análise e Desenvolvimento de Software** (2º semestre)  
 🐍 Apaixonado por **Python** e desenvolvimento de soluções práticas  
-🚀 Buscando minha **primeira oportunidade** como programador
 
 ---
 
