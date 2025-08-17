@@ -19,7 +19,7 @@
 ### [Extrator de Preços](https://github.com/tunicogas/extrator-precos)
 Script que coleta preços de produtos de um site e exporta para **Excel** e **banco de dados SQL**.
 
-### [Organizador de Arquivos](https://github.com/tunicogas/organizador-arquivos)
+### [Organizador de Arquivos](https://github.com/tunicogas/Projeto-Salva-e-Organiza.git)
 Ferramenta que classifica e organiza arquivos automaticamente por tipo/extensão.
 
 ### [Jankenpon (Pedra, Papel e Tesoura)](https://github.com/tunicogas/jankenpon)
