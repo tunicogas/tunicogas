@@ -16,7 +16,7 @@
 
 ## 📂 Projetos em Destaque
 
-### Extrator de Preços
+### Extrator de Preços(privado)
 Script que coleta preços de produtos de um site e exporta para **Excel** e **banco de dados SQL**.
 
 ### [Organizador de Arquivos](https://github.com/tunicogas/Projeto-Salva-e-Organiza.git)
